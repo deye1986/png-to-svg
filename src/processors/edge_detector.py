@@ -1,7 +1,3 @@
-"""Edge detection - pure functional approach.
-
-Provides various edge detection algorithms as pure functions.
-"""
 import numpy as np
 from scipy import ndimage
 from typing import Optional
